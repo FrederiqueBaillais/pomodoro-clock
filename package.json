@@ -5,9 +5,10 @@
   "homepage": "http://about.phamvanlam.com/pomodoro-clock/",
   "dependencies": {
     "gh-pages": "^1.2.0",
-    "react": "^16.4.2",
-    "react-dom": "^16.4.2",
-    "react-scripts": "1.1.5"
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-scripts": "^1.1.5",
+    "yarn": "^1.22.10"
   },
   "scripts": {
     "predeploy": "yarn build",
